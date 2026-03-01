@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrecontre
-- 👀 I’m interested in Technology, Learning, Innovating
-- 🌱 I’m currently learning SQL and Power BI Desktop
+- 👀 I’m interested in Automation, Learning, Reporting
+- 🌱 I’m currently learning SQL, DAX, M, and java Script
 - 💞️ I’m looking to collaborate on shortcuts automations
 - 📫 How to reach me : contrerasflores.andrea@gmail.com
 
