@@ -1,6 +1,4 @@
-👋 Hi, I’m Andrea Contreras
-
-A Business Analyst with a passion for process optimization, Dashboards, automation, and learning tech.
+👋 Hi, I’m Andrea Contreras, a Business Analyst with a passion for process optimization, Dashboards, automation, and learning tech.
 
 👀 Interests: Automation, continous learning, reporting, and efficient workflows.
 
