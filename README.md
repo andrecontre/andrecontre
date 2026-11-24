@@ -15,7 +15,7 @@ My philosophy is simple: **If you have to do it twice, automate it.** I have a n
 * **Languages:** Spanish (Native) | German (C1) | English (C1)
 
 ### 🌱 What I'm Building
-* 💼 **Consultancy:** I help businesses optimize their operations and strategy through my [Business Solutions Portfolio](https://github.com/andrecontre/Business-Solutions-Portfolio).Featured project: [Sales Performance Dashboard – Power BI](https://github.com/andrecontre/Business-Solutions-Portfolio/powerbi-sales-performance-dashboard).
+* 💼 **Consultancy:** I help businesses optimize their operations and strategy through my [Business Solutions Portfolio](https://github.com/andrecontre/Business-Solutions-Portfolio).Featured project: [Sales Performance Dashboard – Power BI](https://github.com/andrecontre/Business-Solutions-Portfolio/tree/main/powerbi-sales-performance-dashboard).
 * 📚 **Knowledge Hub:** I enjoy exploring a bit of everything. I document my learning journey and technical notes in my [Learning Hub](https://github.com/andrecontre/Learning-Hub).
 * ⚙️ **Personal Stack:** From my [Terminal Setup](https://github.com/andrecontre/My-Terminal-Setup) to my private snippets, I treat my digital environment as a workshop for productivity.
 
